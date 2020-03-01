@@ -3,3 +3,5 @@
 *.save
 *.pdf
 unsubmitted/
+*.out.*
+*.in.*
