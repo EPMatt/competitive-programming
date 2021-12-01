@@ -1,3 +1,7 @@
+*
+!/**/
+!*.*
+
 *.o
 *.exe
 *.save
@@ -5,3 +9,4 @@
 unsubmitted/
 *.out.*
 *.in.*
+test_data
